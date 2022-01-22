@@ -1,0 +1,13 @@
+#input:hover{
+    box-shadow: rgb(4, 148, 243) 0px 0px 5px;
+  } 
+  #input{
+   border: rgb(4, 148, 243) 1px solid;
+   height: 33px;
+  }
+
+  #btn{
+      position: relative;
+      margin-top: -60px;
+      margin-left: 150px;
+  }
